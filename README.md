@@ -33,6 +33,6 @@ python src/main.py
 
 ### Output
 
-![Output1.png](sample\Output1.png)
+![Output1.png](sample/Output1.png)
 
-![Output2.png](sample\Output2.png)
+![Output2.png](sample/Output2.png)
